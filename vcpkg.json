@@ -1,0 +1,17 @@
+{
+   "name": "voxelstash",
+   "version-string": "0.0.1",
+   "description": "Voxel Engine, you've heard it a million times before!",
+   "homepage": "https://VoxelStash.info/",
+   "dependencies": [
+      {
+         "name": "imgui",
+         "features": ["sdlgpu3-binding"]
+      },
+      {
+         "name": "sdl3",
+         "features": ["vulkan"]
+      }
+   ]
+}
+
