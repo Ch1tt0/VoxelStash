@@ -1,6 +1,6 @@
 # VoxelStash
 
-Voxel engine, you've heard it a million times before!
+Voxel Game, you've heard it a million times before!
 
 ## Prerequisites
 

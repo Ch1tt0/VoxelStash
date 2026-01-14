@@ -1,7 +1,7 @@
 {
    "name": "voxelstash",
    "version-string": "0.0.1",
-   "description": "Voxel Engine, you've heard it a million times before!",
+   "description": "Voxel Game, you've heard it a million times before!",
    "homepage": "https://VoxelStash.info/",
    "dependencies": [
       {
@@ -14,4 +14,3 @@
       }
    ]
 }
-

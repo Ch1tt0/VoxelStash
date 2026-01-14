@@ -23,9 +23,6 @@ BraceWrapping:
 
 AllowShortIfStatementsOnASingleLine: false
 AllowShortBlocksOnASingleLine: Empty 
-SplitEmptyRecord: false              
-SplitEmptyFunction: false            
-SplitEmptyNamespace: false
 AllowShortLoopsOnASingleLine: false
 AllowShortFunctionsOnASingleLine: Empty
 

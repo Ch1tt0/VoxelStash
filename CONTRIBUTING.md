@@ -1,6 +1,6 @@
 ## Contributing to VoxelStash
 
-Hello generous contributors! Welcome to my humble Voxel engine.
+Hello generous contributors! Welcome to my humble Voxel Game.
 
 I appreciate every pull request you send, I'm not the smartest or most experienced programmer, in fact!
 I'm just a beginner really, so be free to yell at me haha!
